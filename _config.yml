@@ -8,14 +8,14 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
-tagline: Site Tagline
+title : コケいろの雑記。
+tagline: プログラミングとエロゲと酒と格ゲーが好き
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : コケいろ
+  email : kokeiro.ssbm.001@gmail.com
+  github : kokeiro001
+  twitter : kokeiro0_001
+  feedburner : コケいろの雑記。
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -25,7 +25,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://username.github.io
+production_url : http://kokeiro001.github.io
 
 gems: ["jekyll-sitemap"]
 
