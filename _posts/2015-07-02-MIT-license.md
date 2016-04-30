@@ -1,3 +1,21 @@
+---
+published: ture
+layout: post
+title: "MIT license"
+author: Yu
+categories: Articles
+tags:
+- MIT license
+---
+
+## Warning 
+
+This repository is under MIT License.
+
+Please do not remove the License when you fork or modify the repository.
+
+
+~~~
 The MIT License (MIT)
 
 Copyright (c) 2014 Lijia Yu
@@ -19,4 +37,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+~~~
+
+When you make attribute to this theme, [here](http://programmers.stackexchange.com/questions/277688/if-i-fork-a-project-on-github-that-is-licensed-under-mit-how-to-i-handle-the-at) is the right way to update License.
+
+>Copyright for portions of project <q>Foo</q> are held by [Lijia Yu, 2014] as part of project <q>Freshman21</q>. 
+>All other copyright for project <q>Foo</q> are held by [your name, year].
+
+
+- People who modify this repository and remove my MIT License will be listed at here. Because some of them really make me uncomfortable.
+
 
