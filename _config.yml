@@ -1,10 +1,10 @@
 ### Site info:
-title: Freshman21
-tagline: Another Jekyll theme, Freshman twenty-first
-author: Lijia Yu
-email: yu@lijiayu.net
-description: "Freshman21 is a Jekyll blog theme." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
-keywords: "Jekyll, theme, Freshman21"
+title: コケいろの雑記
+tagline: とりとめのないメモメモメモメモ
+author: kokeiro
+email: kokeiro.ssbm.001@gmail.com
+description: "コケいろの雑記。ブログ。" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
+keywords: "kokeio"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 #baseurl: "/freshman21" # the subpath of your site, e.g. /blog/
@@ -12,19 +12,19 @@ url: "" # the base hostname & protocol for your site
 locale: jp_JP
 
 ### Personal info and site tools info:
-twitter_username: yulijia
-github_username:  yulijia
-disqus_shortname: freshman21
+twitter_username: kokeiro0_00
+github_username:  kokeiro001
+disqus_shortname: kokeiro
 favicon:     "/images/favicon.ico"
-aboutme: Hi, this is Lijia Yu. I made the Freshman21 theme. Please enjoy it. # these are shown on aboutme-sidebar.
-aboutme_photo: https://i.imgur.com/Mdc4szJl.jpg# your photo.
-google_analytics_key: UA-57979084-1 # put YOUR key here to enable tracking! (blank to disable)
+aboutme: コケいろ。ゲームプログラマ。お酒とプログラミングとエロゲとC#が好き。 # these are shown on aboutme-sidebar.
+aboutme_photo: 
+google_analytics_key:  # put YOUR key here to enable tracking! (blank to disable)
 
 
 ### Site setting:
 ShowContactInfo: "True" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown where ShowContactInfo == True
 default_column: "two" # blog style: two columns, if default_column != "two", you will see a one column blog.
-default_locale: "en" # blog sidebar language set, only include: English(en) and Chinese (cn)
+default_locale: "jp" # blog sidebar language set, only include: English(en) and Chinese (cn)
 
 locales:
     en:
@@ -55,19 +55,31 @@ locales:
       Taggedwith: "| 标签:"
       PostDate: "| 发表时间: "
       Google_search: "站内搜索"
+    jp:
+      Aboutme: "著者"
+      Archives: "アーカイブ"
+      Blogroll: "ブログロール"
+      Categories: "カテゴリー"
+      Copyright_Notice: "Copyright Notice"
+      Recent_Posts: "最近の投稿"
+      Tags: "タグ"
+      Previous: "前の記事"
+      Next: "次の記事"
+      PostedInCategories: "カテゴリー："
+      Taggedwith: "| タグ："
+      PostDate: "投稿日時 "
+      Google_search: "サイト内検索"
+
 ### your Blogroll info, only name can shown on the page.
 
 Blogroll:
-      - name: Freshman
-        href: http://yulijia.net/freshman
-        title: Another Jekyll blog theme
-      - name: author's website
-        href: http://yulijia.net/
-        title: Lijia Yu's website
-
+      - name: コケいろ
+        href: https://kokeiro001.github.io/
+        title: コケいろの雑記。
 
 ### Build settings
 markdown: kramdown
+
 #highlighter: pygments
 kramdown:
         input: GFM
