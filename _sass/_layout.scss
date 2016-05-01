@@ -305,21 +305,3 @@ time{
   }
 }
 
-
-
-/**
- * New style for quotation.
- */
-
-q:before {
-  content: '<';
-  color: #DD1144;
-  font-weight:bold;
-}
-q:after {
-  content:'>';
-  color: #DD1144;
-  font-weight:bold;
-}
-
-
