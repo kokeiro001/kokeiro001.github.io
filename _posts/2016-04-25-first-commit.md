@@ -5,6 +5,8 @@ title: 雑記。
 
 はぢめてのGitHub Pages。
 
+<!-- more -->
+
 元々別のSNSで雑記を書いていた。
 んだけど、
 
