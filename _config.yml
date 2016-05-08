@@ -17,7 +17,7 @@ github_username:  kokeiro001
 disqus_shortname: kokeiro
 favicon:     "/images/favicon.ico"
 aboutme: コケいろ。ゲームプログラマ。お酒とプログラミングとエロゲとC#が好き。 # these are shown on aboutme-sidebar.
-aboutme_photo: 
+aboutme_photo: "/images/self.jpg"
 google_analytics_key:  # put YOUR key here to enable tracking! (blank to disable)
 
 
