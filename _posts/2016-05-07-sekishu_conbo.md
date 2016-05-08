@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "sekishu_conbo"
+title: "赤主コンボ"
 description: ""
 category: "格闘ゲーム"
 tags: []
