@@ -14,7 +14,7 @@ GitHub Pagesをブログとして生で使ってると、コメントが出来�
 
 あくまでも静的なコンテンツを扱うもののため。
 
-でもコメント欄が欲しい！って時の選択肢の一つとして、[Recommended Discussions · Disqus](https://disqus.com/)がある。
+でもコメント欄が欲しい！って時の選択肢の一つとして、[Disqus](https://disqus.com/)がある。
 
 
 <!-- more -->
