@@ -2,7 +2,6 @@
 layout: post
 title: "GitHub Pagesで作成したブログにコメント機能をつける"
 description: ""
-category: 技術系
 tags: []
 ---
 
