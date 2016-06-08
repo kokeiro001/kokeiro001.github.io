@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 雑記。
+tags: ["雑記"]
 ---
 
 はぢめてのGitHub Pages。

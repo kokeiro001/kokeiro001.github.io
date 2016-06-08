@@ -2,7 +2,7 @@
 layout: post
 title: "GitHub Pagesで作成したブログにコメント機能をつける"
 description: ""
-tags: []
+tags: ["Disqus"]
 ---
 
 
