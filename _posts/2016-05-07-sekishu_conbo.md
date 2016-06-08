@@ -2,8 +2,7 @@
 layout: post
 title: "赤主コンボ"
 description: ""
-category: "格闘ゲーム"
-tags: []
+tags: ["格闘ゲーム", "メルブラ"]
 ---
 
 

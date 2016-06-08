@@ -7,10 +7,6 @@ layout: default
     <h1 itemprop="name" class="post-title">{{ page.title }}</h1>
     <meta itemprop="keywords" content="{{ page.tags | join: ',' }}" />
     <p class="post-meta">
-    {{ site.locales[site.default_locale].PostedInCategories }}
-    {% for cat in page.categories %}
-    <a href="{{site.baseurl}}/categories/#{{ cat }}">{{ cat }}</a>{% unless page.categories.last == cat %}, {% endunless %}
-    {% endfor %} 
     {% if page.tags != empty %}
     {{ site.locales[site.default_locale].Taggedwith }}
     {% for tag in page.tags %}
@@ -18,7 +14,7 @@ layout: default
     {% endfor %}
     {% endif %}
     <time itemprop="datePublished" datetime="{{ page.date | date: '%Y-%m-%d' }}">
-    {{ site.locales[site.default_locale].PostDate }}{{ page.date | date: "%b %-d, %Y" }}
+    {{ site.locales[site.default_locale].PostDate }}{{ page.date | date: "%Y-%m-%d" }}
     </time>
     </p>
   </header>

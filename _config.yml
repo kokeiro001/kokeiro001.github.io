@@ -66,8 +66,8 @@ locales:
       Previous: "前の記事"
       Next: "次の記事"
       PostedInCategories: "カテゴリー："
-      Taggedwith: "| タグ："
-      PostDate: "投稿日時 "
+      Taggedwith: "タグ："
+      PostDate: "| 投稿日時 "
       Google_search: "サイト内検索"
 
 ### your Blogroll info, only name can shown on the page.
